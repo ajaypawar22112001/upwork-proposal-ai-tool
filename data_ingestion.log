@@ -1,0 +1,538 @@
+2025-02-28 11:24:39,823 - Extracted data from file: ajay_pawar_cv.pdf
+2025-02-28 11:24:44,767 - Extracted data from file: ajay_pawar_cv.pdf
+2025-02-28 11:24:44,866 - Extracted data from file: CampusPress-Site-Specialist-Application-Tasks-2024-04.pdf
+2025-02-28 11:26:41,504 - Extracted and chunked data from file: ajay_pawar_cv.pdf
+2025-02-28 11:28:05,569 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 404 Not Found"
+2025-02-28 11:29:40,176 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:30:02,392 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:30:06,819 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:30:06,820 - Extracted, chunked, and embedded data from file: ajay_pawar_cv_removed (1).pdf
+2025-02-28 11:32:37,898 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 11:33:09,396 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:33:33,708 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:33:37,845 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:33:37,886 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cv.pdf
+2025-02-28 11:35:01,467 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 11:37:09,203 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 11:37:33,088 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:37:56,293 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:38:00,352 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:38:00,388 - Insert of existing embedding ID: 0
+2025-02-28 11:38:00,388 - Add of existing embedding ID: 0
+2025-02-28 11:38:00,397 - Insert of existing embedding ID: 1
+2025-02-28 11:38:00,398 - Add of existing embedding ID: 1
+2025-02-28 11:38:00,407 - Insert of existing embedding ID: 2
+2025-02-28 11:38:00,407 - Add of existing embedding ID: 2
+2025-02-28 11:38:00,413 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cv.pdf
+2025-02-28 11:38:11,890 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:38:56,768 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 11:39:20,620 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:39:45,339 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:40:16,863 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:40:16,866 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:40:16,901 - Add of existing embedding ID: 0
+2025-02-28 11:40:16,902 - Add of existing embedding ID: 1
+2025-02-28 11:40:16,902 - Add of existing embedding ID: 2
+2025-02-28 11:40:22,466 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:40:22,476 - Insert of existing embedding ID: 0
+2025-02-28 11:40:22,477 - Add of existing embedding ID: 0
+2025-02-28 11:40:22,491 - Insert of existing embedding ID: 1
+2025-02-28 11:40:22,492 - Add of existing embedding ID: 1
+2025-02-28 11:40:22,503 - Insert of existing embedding ID: 2
+2025-02-28 11:40:22,504 - Add of existing embedding ID: 2
+2025-02-28 11:40:22,510 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cv.pdf
+2025-02-28 11:41:27,510 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 11:41:44,424 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:41:44,461 - Add of existing embedding ID: 0
+2025-02-28 11:41:44,461 - Add of existing embedding ID: 1
+2025-02-28 11:41:44,461 - Add of existing embedding ID: 2
+2025-02-28 11:41:44,461 - Add of existing embedding ID: 0
+2025-02-28 11:41:44,461 - Add of existing embedding ID: 1
+2025-02-28 11:41:44,461 - Add of existing embedding ID: 2
+2025-02-28 11:41:44,462 - Add of existing embedding ID: 0
+2025-02-28 11:41:44,462 - Insert of existing embedding ID: 0
+2025-02-28 11:41:44,467 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cover_letter.txt
+2025-02-28 11:42:07,894 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:42:10,280 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:57:34,788 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 11:58:07,965 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:58:30,557 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:58:34,344 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:58:34,373 - Add of existing embedding ID: 0
+2025-02-28 11:58:34,374 - Add of existing embedding ID: 1
+2025-02-28 11:58:34,374 - Add of existing embedding ID: 2
+2025-02-28 11:58:34,374 - Add of existing embedding ID: 0
+2025-02-28 11:58:34,374 - Add of existing embedding ID: 1
+2025-02-28 11:58:34,374 - Add of existing embedding ID: 2
+2025-02-28 11:58:34,374 - Add of existing embedding ID: 0
+2025-02-28 11:58:34,375 - Insert of existing embedding ID: 0
+2025-02-28 11:58:34,375 - Add of existing embedding ID: 0
+2025-02-28 11:58:34,382 - Insert of existing embedding ID: 1
+2025-02-28 11:58:34,382 - Add of existing embedding ID: 1
+2025-02-28 11:58:34,388 - Insert of existing embedding ID: 2
+2025-02-28 11:58:34,388 - Add of existing embedding ID: 2
+2025-02-28 11:58:34,394 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cv.pdf
+2025-02-28 11:58:40,350 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:59:42,834 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 11:59:59,221 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 0
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 1
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 2
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 0
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 1
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 2
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 0
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 0
+2025-02-28 11:59:59,260 - Add of existing embedding ID: 1
+2025-02-28 11:59:59,261 - Add of existing embedding ID: 2
+2025-02-28 11:59:59,261 - Insert of existing embedding ID: 0
+2025-02-28 11:59:59,262 - Add of existing embedding ID: 0
+2025-02-28 11:59:59,267 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cover_letter.txt
+2025-02-28 12:00:04,072 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:00:17,031 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-28 12:00:32,608 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:00:32,617 - Insert of existing embedding ID: 0
+2025-02-28 12:00:32,617 - Add of existing embedding ID: 0
+2025-02-28 12:00:32,622 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cover_letter.txt
+2025-02-28 12:00:49,928 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:00:49,933 - Insert of existing embedding ID: 0
+2025-02-28 12:00:49,933 - Add of existing embedding ID: 0
+2025-02-28 12:00:49,956 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cover_letter.txt
+2025-02-28 12:00:50,924 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:01:00,678 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-28 12:01:17,338 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:01:17,343 - Insert of existing embedding ID: 0
+2025-02-28 12:01:17,343 - Add of existing embedding ID: 0
+2025-02-28 12:01:17,366 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cover_letter.txt
+2025-02-28 12:01:28,597 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:01:53,561 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-28 12:02:10,339 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:02:10,343 - Insert of existing embedding ID: 0
+2025-02-28 12:02:10,343 - Add of existing embedding ID: 0
+2025-02-28 12:02:10,350 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cover_letter.txt
+2025-02-28 12:03:16,273 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:03:45,551 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:04:09,869 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:04:10,703 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:04:10,730 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,731 - Add of existing embedding ID: 1
+2025-02-28 12:04:10,731 - Add of existing embedding ID: 2
+2025-02-28 12:04:10,731 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,731 - Add of existing embedding ID: 1
+2025-02-28 12:04:10,731 - Add of existing embedding ID: 2
+2025-02-28 12:04:10,731 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 1
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 2
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 0
+2025-02-28 12:04:10,732 - Add of existing embedding ID: 0
+2025-02-28 12:04:15,010 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:04:15,018 - Add of existing embedding ID: 0
+2025-02-28 12:04:15,019 - Insert of existing embedding ID: 0
+2025-02-28 12:04:15,033 - Add of existing embedding ID: 1
+2025-02-28 12:04:15,034 - Insert of existing embedding ID: 1
+2025-02-28 12:04:15,043 - Add of existing embedding ID: 2
+2025-02-28 12:04:15,043 - Insert of existing embedding ID: 2
+2025-02-28 12:04:15,049 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cv_removed (1).pdf
+2025-02-28 12:05:18,722 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-28 12:05:44,763 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:05:59,161 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:06:30,071 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:06:30,075 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:06:30,118 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,118 - Add of existing embedding ID: 1
+2025-02-28 12:06:30,118 - Add of existing embedding ID: 2
+2025-02-28 12:06:30,118 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,118 - Add of existing embedding ID: 1
+2025-02-28 12:06:30,118 - Add of existing embedding ID: 2
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 1
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 2
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,119 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,120 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,120 - Add of existing embedding ID: 1
+2025-02-28 12:06:30,120 - Add of existing embedding ID: 2
+2025-02-28 12:06:30,123 - Add of existing embedding ID: 0
+2025-02-28 12:06:30,123 - Insert of existing embedding ID: 0
+2025-02-28 12:06:30,131 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cover_letter.txt
+2025-02-28 12:07:25,449 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:08:34,618 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:09:20,052 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:09:27,863 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:09:45,310 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:10:18,523 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:10:19,821 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:10:19,900 - 1 change detected
+2025-02-28 12:10:20,251 - 1 change detected
+2025-02-28 12:10:20,602 - 1 change detected
+2025-02-28 12:10:20,952 - 1 change detected
+2025-02-28 12:10:21,303 - 1 change detected
+2025-02-28 12:10:21,654 - 1 change detected
+2025-02-28 12:10:22,004 - 1 change detected
+2025-02-28 12:10:22,355 - 1 change detected
+2025-02-28 12:10:22,705 - 1 change detected
+2025-02-28 12:10:23,056 - 1 change detected
+2025-02-28 12:10:23,407 - 1 change detected
+2025-02-28 12:10:23,757 - 1 change detected
+2025-02-28 12:10:24,108 - 1 change detected
+2025-02-28 12:10:24,458 - 1 change detected
+2025-02-28 12:10:24,809 - 1 change detected
+2025-02-28 12:10:25,160 - 1 change detected
+2025-02-28 12:10:25,511 - 1 change detected
+2025-02-28 12:10:25,861 - 1 change detected
+2025-02-28 12:10:26,212 - 1 change detected
+2025-02-28 12:10:26,562 - 1 change detected
+2025-02-28 12:10:26,913 - 1 change detected
+2025-02-28 12:10:27,264 - 1 change detected
+2025-02-28 12:10:27,614 - 1 change detected
+2025-02-28 12:10:27,742 - Error fetching : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2025-02-28 12:10:27,862 - Processed URL: 
+2025-02-28 12:10:27,965 - 1 change detected
+2025-02-28 12:10:28,315 - 1 change detected
+2025-02-28 12:10:28,666 - 1 change detected
+2025-02-28 12:10:29,016 - 1 change detected
+2025-02-28 12:10:29,367 - 1 change detected
+2025-02-28 12:10:29,717 - 1 change detected
+2025-02-28 12:10:30,068 - 1 change detected
+2025-02-28 12:10:30,419 - 1 change detected
+2025-02-28 12:10:30,770 - 1 change detected
+2025-02-28 12:10:31,121 - 1 change detected
+2025-02-28 12:10:31,472 - 1 change detected
+2025-02-28 12:10:31,822 - 1 change detected
+2025-02-28 12:10:32,173 - 1 change detected
+2025-02-28 12:10:32,469 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 1
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 2
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 1
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 2
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 1
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 2
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,499 - Add of existing embedding ID: 1
+2025-02-28 12:10:32,500 - Add of existing embedding ID: 2
+2025-02-28 12:10:32,500 - Add of existing embedding ID: 0
+2025-02-28 12:10:32,510 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:32,574 - 5 changes detected
+2025-02-28 12:10:32,925 - 1 change detected
+2025-02-28 12:10:33,276 - 1 change detected
+2025-02-28 12:10:33,465 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:33,470 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:33,626 - 1 change detected
+2025-02-28 12:10:33,796 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:33,802 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:33,977 - 1 change detected
+2025-02-28 12:10:34,115 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:34,121 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:34,333 - 1 change detected
+2025-02-28 12:10:34,475 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:34,480 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:34,684 - 1 change detected
+2025-02-28 12:10:34,810 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:34,815 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:35,035 - 1 change detected
+2025-02-28 12:10:35,120 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:35,125 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:35,356 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:35,361 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:35,386 - 1 change detected
+2025-02-28 12:10:35,594 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:35,598 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:35,736 - 1 change detected
+2025-02-28 12:10:35,914 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:10:35,919 - 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/venv/lib/python3.12/site-packages/nicegui/events.py", line 432, in handle_event
+    result = cast(Callable[[], Any], handler)()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 127, in process_query
+    answer = generate_response(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 105, in generate_response
+    context = "\n".join(retrieve_relevant_chunks(query))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/emp-0011/Desktop/Budget Application Email/upwork/app.py", line 99, in retrieve_relevant_chunks
+    return [item.get("text", "") for item in results["metadatas"]]
+            ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2025-02-28 12:10:36,087 - 1 change detected
+2025-02-28 12:10:36,438 - 1 change detected
+2025-02-28 12:10:36,788 - 1 change detected
+2025-02-28 12:10:37,140 - 1 change detected
+2025-02-28 12:10:37,490 - 1 change detected
+2025-02-28 12:10:37,841 - 1 change detected
+2025-02-28 12:10:38,192 - 1 change detected
+2025-02-28 12:10:38,543 - 1 change detected
+2025-02-28 12:10:38,894 - 1 change detected
+2025-02-28 12:10:39,244 - 1 change detected
+2025-02-28 12:10:39,595 - 2 changes detected
+2025-02-28 12:10:40,099 - 2 changes detected
+2025-02-28 12:10:40,458 - 1 change detected
+2025-02-28 12:10:40,809 - 1 change detected
+2025-02-28 12:10:41,107 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:10:41,159 - 1 change detected
+2025-02-28 12:10:41,510 - 1 change detected
+2025-02-28 12:10:41,861 - 1 change detected
+2025-02-28 12:10:42,212 - 1 change detected
+2025-02-28 12:10:42,563 - 1 change detected
+2025-02-28 12:10:42,914 - 1 change detected
+2025-02-28 12:10:43,264 - 1 change detected
+2025-02-28 12:10:50,323 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:11:18,753 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:11:45,963 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:11:51,256 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:11:51,296 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,296 - Add of existing embedding ID: 1
+2025-02-28 12:11:51,296 - Add of existing embedding ID: 2
+2025-02-28 12:11:51,296 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 1
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 2
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 1
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 2
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,297 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,298 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,298 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,298 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,298 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,298 - Add of existing embedding ID: 1
+2025-02-28 12:11:51,298 - Add of existing embedding ID: 2
+2025-02-28 12:11:51,298 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,299 - Insert of existing embedding ID: 0
+2025-02-28 12:11:51,300 - Add of existing embedding ID: 0
+2025-02-28 12:11:51,311 - Insert of existing embedding ID: 1
+2025-02-28 12:11:51,311 - Add of existing embedding ID: 1
+2025-02-28 12:11:51,319 - Insert of existing embedding ID: 2
+2025-02-28 12:11:51,319 - Add of existing embedding ID: 2
+2025-02-28 12:11:51,324 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cv.pdf
+2025-02-28 12:12:08,574 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:13:16,812 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-28 12:13:49,470 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:14:21,388 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:14:26,056 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:14:26,060 - Insert of existing embedding ID: 0
+2025-02-28 12:14:26,060 - Add of existing embedding ID: 0
+2025-02-28 12:14:26,081 - Insert of existing embedding ID: 1
+2025-02-28 12:14:26,081 - Add of existing embedding ID: 1
+2025-02-28 12:14:26,088 - Insert of existing embedding ID: 2
+2025-02-28 12:14:26,088 - Add of existing embedding ID: 2
+2025-02-28 12:14:26,093 - Extracted, chunked, embedded, and stored in ChromaDB for file: ajay_pawar_cv.pdf
+2025-02-28 12:19:04,309 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:19:27,962 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:20:05,741 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:20:33,242 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:20:37,962 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:20:37,997 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,997 - Add of existing embedding ID: 1
+2025-02-28 12:20:37,997 - Add of existing embedding ID: 2
+2025-02-28 12:20:37,997 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,997 - Add of existing embedding ID: 1
+2025-02-28 12:20:37,997 - Add of existing embedding ID: 2
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 1
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 2
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 1
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 2
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 1
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 2
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 0
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 1
+2025-02-28 12:20:37,998 - Add of existing embedding ID: 2
+2025-02-28 12:20:37,999 - Insert of existing embedding ID: 0
+2025-02-28 12:20:37,999 - Add of existing embedding ID: 0
+2025-02-28 12:20:38,008 - Insert of existing embedding ID: 1
+2025-02-28 12:20:38,008 - Add of existing embedding ID: 1
+2025-02-28 12:20:38,016 - Insert of existing embedding ID: 2
+2025-02-28 12:20:38,017 - Add of existing embedding ID: 2
+2025-02-28 12:20:38,022 - Processed ajay_pawar_cv_removed (1).pdf successfully
+2025-02-28 12:22:05,390 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:34:06,857 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-28 12:34:34,533 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 1
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 2
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 1
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 2
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,583 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 1
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 2
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 1
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 2
+2025-02-28 12:34:34,584 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 1
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 2
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 1
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 2
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 1
+2025-02-28 12:34:34,585 - Add of existing embedding ID: 2
+2025-02-28 12:34:34,587 - Insert of existing embedding ID: 0
+2025-02-28 12:34:34,587 - Add of existing embedding ID: 0
+2025-02-28 12:34:34,594 - Processed ajay_pawar_cover_letter.txt successfully
+2025-02-28 12:34:49,858 - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-02-28 12:34:49,864 - Insert of existing embedding ID: 0
+2025-02-28 12:34:49,864 - Add of existing embedding ID: 0
+2025-02-28 12:34:49,871 - Processed ajay_pawar_cover_letter.txt successfully
